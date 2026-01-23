@@ -1,4 +1,4 @@
-# ☑️ Todo App
+# Todo App
 - 프론트(React Native)와 백엔드(Spring Boot)로 구성된 Todo 애플리케이션
 - 할 일 CRUD 및 완료 상태 관리 제공
 
