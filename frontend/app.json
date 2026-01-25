@@ -1,4 +1,16 @@
 {
   "name": "MyReactNativeApp",
-  "displayName": "MyReactNativeApp"
+  "displayName": "MyReactNativeApp",
+  "extra": {
+    "eas": {
+      "projectId": "be8aea16-3821-4a69-903d-dfaa9e3a9cf3"
+    }
+  },
+  "runtimeVersion": "1.0.0",
+  "updates": {
+    "url": "https://u.expo.dev/be8aea16-3821-4a69-903d-dfaa9e3a9cf3"
+  },
+  "android": {},
+  "ios": {},
+  "owner": "chae_yun"
 }
