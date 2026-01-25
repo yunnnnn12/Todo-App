@@ -37,3 +37,8 @@ out/
 .vscode/
 
 todo-app.zip
+
+*.iml
+*.class
+*.log
+*.DS_Store
